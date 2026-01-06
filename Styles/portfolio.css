@@ -29,9 +29,10 @@
   background-color: #fd6e0a;
   color: white;
   font-size: 20px;
-  padding: 17px 36px;
+  padding: 17px 33px;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
 }
 .heading {
   font-size: 35px;
@@ -49,7 +50,7 @@ header {
   background-image: url("../images/developer.png"),
     url("../images/header_bg.png");
   background-repeat: no-repeat;
-  background-position: top 40px left, bottom right;
+  background-position: 23px 40px, bottom right;
 }
 
 nav {
